@@ -1,0 +1,132 @@
+# Dossiers de dépendances Node.js
+node_modules
+
+# Journaux
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Données d'exécution
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Répertoire pour les bibliothèques instrumentées générées par jscoverage/JSCover
+lib-cov
+
+# Ignorer le fichier readme.md
+readme.md
+
+# Répertoire de couverture utilisé par des outils comme istanbul
+coverage
+
+# Couverture de test nyc
+.nyc_output
+
+# Stockage intermédiaire de Grunt (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Répertoire de dépendances Bower (https://bower.io/)
+bower_components
+
+# Configuration node-waf
+.lock-wscript
+
+# Addons binaires compilés (https://nodejs.org/api/addons.html)
+build/Release
+
+# Répertoires de dépendances
+jspm_packages
+
+# Fichiers de déclaration TypeScript v1
+typings
+
+# Répertoire de cache npm optionnel
+.npm
+
+# Cache eslint optionnel
+.eslintcache
+
+# Cache Microbundle
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Historique REPL optionnel
+.node_repl_history
+
+# Sortie de 'npm pack'
+*.tgz
+
+# Fichier d'intégrité Yarn
+.yarn-integrity
+
+# Fichier de variables d'environnement dotenv
+.env
+.env.test
+
+# Cache parcel-bundler (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Sortie de build Next.js
+.next
+
+# Sortie de build / génération Nuxt.js
+.nuxt
+dist
+
+# Fichiers Gatsby
+.cache/
+public
+
+# Sortie de build vuepress
+.vuepress/dist
+
+# Répertoires Serverless
+.serverless/
+
+# Cache FuseBox
+.fusebox/
+
+# Fichiers DynamoDB Local
+.dynamodb/
+
+# Fichier de port TernJS
+.tern-port
+
+# Répertoires VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Sortie de build SvelteKit
+.svelte-kit
+
+# Dossiers temporaires
+tmp/
+temp/
+
+# Répertoires de Bootstrap
+bootstrap/
+
+# Répertoires de Symfony
+/var/
+/vendor/
+/public/bundles/
+/node_modules/
+/.env.local
+/.env.local.php
+/.env.*.local
+/.env.test.local
+/phpunit.xml
+/phpunit.xml.dist
+/phpunit.result.cache
+/.php_cs.cache
+/.phpunit.result.cache
