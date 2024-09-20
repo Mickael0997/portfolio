@@ -18,36 +18,6 @@ Ce projet est un portfolio pour stocker et présenter vos créations.
 
 2. Installez les dépendances :
    ```bash
-   npm uninstall live-server
-   npm audit fix
-   npm audit
-   npm install
-   npm start
-   
-
-   Bien sûr ! Voici un exemple de fichier `README.md` pour votre projet, incluant des instructions sur l'utilisation de l'extension REST Client et des exemples de requêtes HTTP.
-
-```markdown
-# Portfolio
-
-Ce projet est un portfolio pour stocker et présenter vos créations.
-
-## Prérequis
-
-- [Node.js](https://nodejs.org/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- Extension [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) pour Visual Studio Code
-
-## Installation
-
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
-   cd votre-repo
-   ```
-
-2. Installez les dépendances :
-   ```bash
    npm install
    ```
 
