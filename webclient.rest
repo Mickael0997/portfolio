@@ -1,0 +1,11 @@
+GET https://api.example.com/data
+Content-Type: application/json
+
+###
+
+POST http://localhost:3000/data
+Content-Type: application/json
+
+{
+    "key": "value"
+}
